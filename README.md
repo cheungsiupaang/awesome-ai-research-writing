@@ -1,4 +1,4 @@
-> Make AI Writing Great Again
+> Make AI Writing Better for Everyone
 
 ## 📖 为什么做这个项目
 
